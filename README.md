@@ -20,18 +20,6 @@ Hey all, I am a data scientist with expertise in machine learning, data analytic
 ---
 
 
-## 💡 Current Interests
-
-I'm currently exploring:
-
-- 🔍 **Natural Language Processing (NLP)** and text analytics
-- 🧠 **Deep Learning** for image classification and speech recognition
-- 🏗️ **Building end-to-end ML pipelines** for production environments
-- 🌐 **Data Engineering** with scalable architecture
-- 🌐 **Web Development** with JavaScript, HTML, CSS, and C# for backend development
-
----
-
 ## 🌍 Connect With Me
 
 Let's connect and collaborate! Feel free to reach out via:
