@@ -16,18 +16,3 @@ Hey all, I am a data scientist with expertise in machine learning, data analytic
 | **Big Data & Processing**     | Apache Spark, Hadoop                                    |
 | **Databases**                 | MySQL, PostgreSQL, MongoDB                              |
 | **Tools & Platforms**         | Jupyter, Git, Docker, Airflow, AWS, Google Cloud        |  
-
----
-
-
-## 🌍 Connect With Me
-
-Let's connect and collaborate! Feel free to reach out via:
-
-- 💼 **LinkedIn:** [Abdul Rahim Mirani]([https://www.linkedin.com](https://www.linkedin.com/in/abdul-rahim-mirani/))
-
----
-
-✨ **Thank you for visiting my GitHub!** ✨  
-Feel free to explore my repositories and drop a star if you find something interesting!
-
