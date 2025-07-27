@@ -1,5 +1,3 @@
-# 👨‍💻 Abdul Rahim Mirani
-
 Hey all, I am a data scientist with expertise in machine learning, data analytics, and engineering. Pursuing a Master’s in Data Science, I have experience in automating data pipelines, building predictive models, and extracting insights from large datasets. Skilled in Python, SQL, R, Power BI, and Tableau, I excel in data wrangling, feature engineering, and model optimization. I am passionate about solving real-world problems through data-driven solutions and innovative algorithms.
 
 ## 🛠️ Skills & Technologies
