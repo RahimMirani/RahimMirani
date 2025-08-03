@@ -1,4 +1,4 @@
-Hey all, I am a data scientist with expertise in machine learning, data analytics, and engineering. Pursuing a Master’s in Data Science, I have experience in automating data pipelines, building predictive models, and extracting insights from large datasets. Skilled in Python, SQL, R, Power BI, and Tableau, I excel in data wrangling, feature engineering, and model optimization. I am passionate about solving real-world problems through data-driven solutions and innovative algorithms.
+Love building stuff and going from 0-1. I have built full stack applications as well as machine learning algorithms. With a MS in Data Science, I have profesional experince in automating data pipelines, building predictive models, and extracting insights from large datasets.
 
 ## 🛠️ Skills & Technologies
 
